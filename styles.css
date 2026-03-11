@@ -130,17 +130,12 @@ article h3 {
 
 
 .tinyPicture {
-        max-height: 150px;
+        max-height: 200px;
+        min-height: 150px;
+        max-width: 285px;
         padding: 0px;
         border-radius: 4px;
 }
-
-.tinyPicture {
-        max_width: 75%;
-        padding: 0px;
-        border-radius: 5px;
-}
-
 .card {
     width: 300px;
     height: 300px;
